@@ -1,0 +1,29 @@
+#pic> li{
+	list-style: none;
+}
+.pagination{
+	margin: 0 auto;
+}
+.pic {
+	display: block;
+	width: 150px;
+	height: 100px;
+	margin:auto;
+}
+li div{
+	padding: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+li p{
+	text-align: center;
+}
+.itempic {
+	display: block;
+	width: 450px;
+	height: 300px;
+	margin:auto;
+}
+.container{
+	height: 1500px;
+}
